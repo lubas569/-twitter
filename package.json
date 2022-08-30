@@ -48,6 +48,7 @@
     "csv-parse": "4.16.3",
     "eventemitter3": "4.0.7",
     "filesize": "8.0.7",
+    "liquid-json": "0.3.1",
     "lodash": "4.17.21",
     "mkdirp": "1.0.4",
     "postman-collection": "4.1.1",
@@ -82,7 +83,7 @@
     "recursive-readdir": "^2.2.2",
     "server-destroy": "^1.0.1",
     "shelljs": "^0.8.5",
-    "sinon": "^13.0.1",
+    "sinon": "^14.0.0",
     "xml2js": "^0.4.23"
   },
   "engines": {
